@@ -205,6 +205,14 @@ USD
 
 ## Uygulamalar
 
+Uygulama olarak bir Telegram botu yazacağız. Bunun için öncelikle terminal ekranından aşağıdaki komut ile Telegram paketini yerel sistemimize kurmalıyız:
+
+```bash
+pip install python-telegram-bot
+```
+
+Artık uygulamaya geçebiliriz. Şimdi yapacaklarımıza sırayla göz atıp botumuzu yazmaya başlayalım:
+
 1. Belirli aralıklarla bu değeri almak
 2. Dolar değeri Euro değerinden büyük mü diye bakmak
 3. Telegram'dan bot oluşturmak -> BotFather -> <https://api.telegram.org/bot%3CTOKEN%3E/getUpdates>
