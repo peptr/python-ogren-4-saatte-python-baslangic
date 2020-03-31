@@ -35,7 +35,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 
-#### Windows
+#### Windows
 
 Windows'ta kurulum yönteminize göre, PowerShell'i açıp `python` yazmak ve Enter'a basmak yeterli olur. Ayrıca bir arayüz kullanmak isterseniz uygulamalar arasından IDLE'yi açabilirsiniz.
 
