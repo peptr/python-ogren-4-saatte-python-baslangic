@@ -1,5 +1,7 @@
 # Python Öğren 4 Saatte Python'a Başlangıç
 
+**([PDF Olarak Erişim](./README.pdf))**
+
 ##  Python Nedir?
 
 Python; veri biliminden web uygulaması geliştirmeye, API oluşturmaktan sistem yönetimine kadar hem kişisel bilgisayarlarda, hem sunucu dünyasında hem de gömülü ve mobil cihazlarda kullanım alanı bulan, öğrenmesi kolay ve kod geliştirirken işleri oldukça hızlandıran bir dil.
